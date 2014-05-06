@@ -1,0 +1,19 @@
+h1.demo1 {
+  margin-top: 20px;
+}
+h2 {
+  font-family: Raleway, sans-serif;
+  color: #fff;
+  font-size: 20px;
+  font-weight: normal;
+  text-transform: uppercase;
+  margin-top: 200px;
+}
+
+.white {
+  color: #fff;
+}
+
+.home {
+  background-color: rgba(150, 255, 180,0.8);
+}
